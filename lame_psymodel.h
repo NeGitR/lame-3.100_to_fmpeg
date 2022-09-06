@@ -1,5 +1,5 @@
 /*
- *	psymodel.h
+ *	lame_psymodel.h
  *
  *	Copyright (c) 1999 Mark Taylor
  *

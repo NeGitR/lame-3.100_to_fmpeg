@@ -32,7 +32,7 @@
 #include "util.h"
 #include "reservoir.h"
 
-#include "bitstream.h"
+#include "lame_bitstream.h"
 #include "lame-analysis.h"
 #include "lame_global_flags.h"
 

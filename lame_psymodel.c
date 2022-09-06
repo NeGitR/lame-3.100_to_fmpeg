@@ -150,7 +150,7 @@ blocktype_d[2]        block type to use for previous granule
 #include "machine.h"
 #include "encoder.h"
 #include "util.h"
-#include "psymodel.h"
+#include "lame_psymodel.h"
 #include "lame_global_flags.h"
 #include "fft.h"
 #include "lame-analysis.h"

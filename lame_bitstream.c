@@ -39,7 +39,7 @@
 #include "lame_global_flags.h"
 #include "gain_analysis.h"
 #include "VbrTag.h"
-#include "bitstream.h"
+#include "lame_bitstream.h"
 #include "tables.h"
 
 

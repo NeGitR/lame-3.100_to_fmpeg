@@ -34,7 +34,7 @@
 #include "util.h"
 #include "quantize_pvt.h"
 #include "reservoir.h"
-#include "bitstream.h"
+#include "lame_bitstream.h"
 #include "vbrquantize.h"
 #include "quantize.h"
 #ifdef HAVE_XMMINTRIN_H

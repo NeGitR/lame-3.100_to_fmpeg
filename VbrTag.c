@@ -30,7 +30,7 @@
 #include "machine.h"
 #include "encoder.h"
 #include "util.h"
-#include "bitstream.h"
+#include "lame_bitstream.h"
 #include "VbrTag.h"
 #include "lame_global_flags.h"
 #include "tables.h"

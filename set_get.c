@@ -30,7 +30,7 @@
 #include "machine.h"
 #include "encoder.h"
 #include "util.h"
-#include "bitstream.h"  /* because of compute_flushbits */
+#include "lame_bitstream.h"  /* because of compute_flushbits */
 
 #include "set_get.h"
 #include "lame_global_flags.h"

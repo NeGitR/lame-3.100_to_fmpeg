@@ -58,7 +58,7 @@ char   *strchr(), *strrchr();
 #include "id3tag.h"
 #include "lame_global_flags.h"
 #include "util.h"
-#include "bitstream.h"
+#include "lame_bitstream.h"
 
 
 static const char *const genre_names[] = {
